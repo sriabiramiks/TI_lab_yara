@@ -1,0 +1,38 @@
+Malware Name: Hidden Bee trojan
+Malware Desc:
+    > Hidden Bee (also known as Hidden Mellifera) is a trojan-type infection designed to mine cryptocurrency. 
+    > Therefore, it diminishes system performance. 
+    > This malware infiltrates computers without users' consent and research shows that cyber criminals proliferate Hidden Bee using the Popcash advertising network and Underminer Exploit Kit (EK).
+Ref: https://www.pcrisk.com/removal-guides/15440-hidden-bee-malware
+
+Yara Pattern Desc:
+1) wireshark.exe
+    > The process known as Wireshark belongs to software Wireshark by The Wireshark developer community, http://www.wireshark.org.
+    > Wireshark.exe on your computer is a Trojan that you should remove.
+    Ref: https://www.file.net/process/wireshark.exe.html
+
+2) EHSniffer.exe
+    > sniffer.exe is a legitimate executable file developed by Network Associates, Inc. 
+    > Cybercriminals find a way out to mimic malicious programs in the name of sniffer.exe to spread malware infection.
+    Ref: https://file-intelligence.comodo.com/windows-process-virus-malware/exe/sniffer
+
+3) dllhost.exe
+    > Process name: DCOM DLL host process
+    > Product: Windows
+    > Company: Microsoft
+    > File: dllhost.exe
+    > The dllhost.exe file is located in the folder C:\Windows\System32. 
+    > In other cases, dllhost.exe is a virus, spyware, trojan or worm! 
+    Ref: https://www.neuber.com/taskmanager/process/dllhost.exe.html
+
+4) kernel32.dll 
+    > The genuine kernel32.dll file is a software component of Microsoft Windows by Microsoft.
+    > Kernel32.dll is able to monitor applications, record keyboard and mouse inputs, manipulate other programs and connect to the Internet.
+    Ref: https://www.file.net/process/kernel32.dll.html
+
+5) ntdll.dll
+    > Process name: NT Layer DLL
+    > Application using this process: Windows NT
+    > The ntdll.dll file included with Microsoft Windows is not spyware, a trojan, or a virus. 
+However, like any file on your computer it can become corrupted by a virus or trojan.
+    Ref: https://www.processlibrary.com/en/directory/files/ntdll/23004/
