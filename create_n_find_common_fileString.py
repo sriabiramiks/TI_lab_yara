@@ -4,54 +4,42 @@
                   Sri Abirami K S - MT20ACS537
     Created on  : Aug 27, 2021
 '''
-
+from pathlib import Path
 import os
-from posixpath import sep
 
-def get_sorted_files(Directory):
-    try:
-        filenamelist = []
-        for root, dir, files in os.walk(Directory):
-            for name in files:
-                fullname = os.path.join(root, name)
-                filenamelist.append(fullname)        
-        return sorted(filenamelist)
-    except:
-        print("Error occurred, kindly try later!")
+usr_path = "\\MT20ACS537_Sri_Abirami\\2018-08-Hidden-Bee-Elements\\"
+file_path = os.getcwd()+usr_path
+new_file_path = file_path+"stringpattern\\"
+output_file = new_file_path+'common_strings.txt'
+file_contents = []
 
-def common(*lst): 
-    return list(set(lst))
+def common(lst):    
+    temp_set = set(lst[0])
+    for l in lst:
+        temp_set = temp_set & set(l) 
+    temp_list = list(temp_set)   
+    temp_list.sort()    
+    return temp_list
 
 if __name__=="__main__":
-    try:
-        file_path = os.path.abspath("./")+"\\MT20ACS537_Sri_Abirami\\2018-08-Hidden-Bee-Elements\\"
-        file_list = get_sorted_files(file_path)
-        index = 1
-        for x in range(len(file_list)):    
-            print(os.system(f'cd {file_path} & mkdir stringpattern & strings "{file_list[x]}" > ./stringpattern/stringpattern_{index}.txt & exit'))
+    try:    
+        index = 1        
+        for input_file in Path(file_path).iterdir():                
+            if not input_file.is_file():
+                continue    
+            os.system(f'cd {file_path} & mkdir stringpattern & strings "{input_file}" > ./stringpattern/stringpattern_{index}.txt & exit')
             index+=1
-
-        new_file_path = os.path.abspath("./")+"\\MT20ACS537_Sri_Abirami\\2018-08-Hidden-Bee-Elements\\stringpattern\\"
-        IMPORT_FILES = get_sorted_files(new_file_path)
-        OUTPUT_FILE = new_file_path+'common_strings.txt'
-        file_contents = []
-
-        for i in range(len(IMPORT_FILES)):
-            temp = 'ip'+str(i+1)
-            tempContent = temp+'FileContents'
-            with open(IMPORT_FILES[i], 'r') as temp:
-                tempContent = temp.readlines()
-            tempContent = [i.strip() + '\n' for i in tempContent]
-            file_contents.append(tempContent)
-
-        file_str_content = str(file_contents)[1:-1]
-        e = common(file_str_content)
-        e.sort()
-
-        file = open(OUTPUT_FILE,'w')
-        for items in e:
+            
+        for input_file in Path(new_file_path).iterdir():                
+            if not input_file.is_file():
+                continue            
+            with open(input_file, 'r') as temp:
+                file_contents.append([i.strip() + '\n' for i in temp.readlines()])
+                        
+        file = open(output_file,'w')
+        for items in common(file_contents):
             file.writelines(items)
 
         file.close()
-    except:
-        print("Error occurred, kindly try later!")
+    except Exception as e:        
+        print(f"{e}\nError occurred, kindly try later!")
