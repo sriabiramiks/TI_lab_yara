@@ -1,0 +1,149 @@
+("
+(xh
+(y ,e
+*AsA
+*\CNormal
+,To
+... by Kwyjibo
+.VB
+0046}#
+01p*
+1 To
+1,
+1Normal.Melissa
+1Table
+2.0#0#C:
+430-
+97S
+@un
+ADB
+ADCL
+ADI1
+ActiveDocument
+Add
+AddFromString
+AddressEntries
+AddressLists
+Application
+Arial
+Attachments_
+Attribut
+B@d
+BGN
+Bas
+BreakUmOffASlice
+CYA
+CommandBars
+CompObj
+ConfirmConversions
+Controls
+CreateItem
+CreateObject
+DasMapiNameg
+Day
+Do Wh`
+DoAD(
+DoNT
+Document=Melissa/&H00000000
+DocumentSummaryInformation
+Document_Open
+Documentj
+Dov
+Enabled
+FileNamej
+FullName
+GetNameSpaceC
+Go
+HKEY_CURRENT_USER\Software\Microsoft\Office\
+HKEY_CURRENT_USER\Software\Microsoft\Office\9.0\Word\Security
+H_.User
+HelpContextID="0"
+Here is that document you asked for ... don't show anyone else ;-)
+Important Message From
+InsertLines
+Item
+Level
+Lines
+Logon
+MAPI
+MSWordDoc
+Mac
+Macro
+Macros
+Melissa
+Melissa=0, 0, 0, 0, C
+Melissa?
+MelissaQ
+NTCL
+NTI1
+Name="Project"
+Normal
+NormalTemplateq
+NzT
+OfLines
+Office
+Options
+Outlook
+Outlook.Application
+PROJECTwm
+Peep
+Peeps
+Private Sub Document_Close()
+Private Sub Document_Open()
+PrivateProfileString[
+Project
+Project-
+Recipients
+Root Entry
+SaveNormalPrompt
+Savedd
+Security...
+SelectionZ
+Send
+Set
+SummaryInformation
+Symbol
+ThisDocument<
+Times New Roman
+ToInfect
+Tools
+Tru
+Twenty-two points, plus triple-word-score, plus fifty points for using all my letters.  Game's over.  I'm outta here.
+UngaDasOutlookH
+UserName\
+VBA
+VBComponents
+WORD/Melissa written by Kwyjibo
+Win16
+Win32
+Word -> Email | Word 97 <--> Word 2000 ... it's a new age!
+Word.Document.8
+WordDocument
+Works in both Word 2000 and Word 97
+Worm? Macro Virus? Word 97 Virus? Word 2000 Virus? You Decide!
+[Host Extender Info]
+[Workspace]
+\G{00020
+]ToInf@\t =@
+_Evaluate
+_VBA_PROJECT
+dir
+dol
+e = "Mel
+e VB_Nam
+f@H
+issa"
+ks iP
+mal.
+mpt
+oAD0
+ole>
+pYCYA2
+password
+profile
+rstd
+stdole
+ten
+x +
+x1Nor
+|(0h

